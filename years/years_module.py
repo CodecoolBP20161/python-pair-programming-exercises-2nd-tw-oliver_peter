@@ -2,7 +2,7 @@ import datetime
 
 
 def years(age):
-    return
+    return age 
 
 
 def main():
